@@ -1,0 +1,19 @@
+li {
+  list-style-type: none;
+}
+.App {
+  padding: 30px;
+  display: flex;
+}
+.conteiner {
+  width: 800px;
+  font-size: 15px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 10px 0px;
+}
+span {
+  font-size: 15px;
+  font-weight: 900;
+}
