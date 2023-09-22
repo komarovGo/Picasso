@@ -3,7 +3,7 @@
 - React Router DOM 
 - RTK Query
 - JSON Placeholde
-- 
+
 ### _Запуск проекта_
 ***
 1. Склонируйте репозиторий:
