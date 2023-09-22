@@ -1,13 +1,14 @@
 ### Используемый стек🔽
 - react
-- react-spring
-- next.js
-  
+- React Router DOM 
+- RTK Query
+- JSON Placeholde
+- 
 ### _Запуск проекта_
 ***
 1. Склонируйте репозиторий:
 ```
-$ git clone https://github.com/komarovGo/NeoFamily.git
+$ git clone https://github.com/komarovGo/Picasso.git
 ```
 2. Установите зависимости:
 ```
